@@ -1,0 +1,110 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>Movie House</title>
+<style>
+
+li {
+		float: center;
+         display: inline;
+		 
+		}
+		
+li  a{
+    background-color: #2E64FE;
+    color: white;
+    padding: 10px 20px;
+	text-decoration: none;
+	border-right: thick double;
+	border-right-color: gray;
+	text-align: center;
+	text-transform: uppercase;
+
+}
+
+#categ a:hover {
+	background-color: gray;
+} 
+
+</style>
+
+	 
+	</head>
+	 
+<body>
+
+	 
+<center> <img alt="logo" src="mm1.jpg" width="450" height="200"> 
+  <br>
+		  
+		  </br> 
+	
+<p class = "title"> <marquee width="800" scrolldelay="150" bgcolor="#CCCCFF"><font face="comic sans" size="5" color="2E64FE">
+<b>welcome to the Movie House Website &nbsp; &nbsp; &nbsp; Online Movies &nbsp; &nbsp; &nbsp; </b></marquee> </p>
+ 
+<p> <ul id="categ">
+<li><a href="Home.html">Latest Movies</a>
+<li><a href="Face.html">Family</a>
+<li><a href="Eyes.html">Action</a>
+<li><a href="Lips.html">Comedy</a>
+<li><a href="Brushes.html">Adventure</a>
+<li><a href="Skincare.html">Fantsy</a>
+<li><a href="login.html">login</a>
+<li><a href="Contact.html">Contact Us</a>
+<a href="cart.html"><img src="cart.png" alt="Shopping cart" height="28" width="28"></a> 
+</ul></p>
+          <br>
+	
+		  
+		  </br> 	  
+ <br>
+		  
+		  </br> 
+<p><font face="comic sans" size="5" color="Black"> Latest Movies </p>
+	  
+<table>
+<tbody>
+<tr>
+<td><a href="mj.html"><img src="mj.jpg" alt="Eye Shadows NAKED2" height="200" width="200"></a><Br>
+  Eye Shadows NAKED2 <br> $40.99 </td>
+  <td><a href="mc.html"><img src="mc.jpg" alt="Eye Shadows MAC" height="200" width="200"></a><Br>
+ Eye Shadows MAC <br> $55.99  </td>
+<td><a href="gf.html"><img src="gf.jpg" alt="Sleek -matte me" height="200" width="200"></a><Br>
+ Sleek -matte me <br> $55.99  </td>
+<td><a href="ce.html"><img src="ce.jpg" alt="Moisturizing Cream" height="200" width="200"></a><Br>
+ Moisturizing Cream<br> $55.99  </td>
+<td><a href="hhh.html"><img src="hhh.jpg" alt="Radiance Moisturizing" height="200" width="200"></a><Br>
+Radiance Moisturizing <br> $15.99  </td>
+</tr>
+
+<tr>
+<td><a href="nh.html"><img src="nh.jpg" alt="Mac Fluid Foundation NC35" height="200" width="200"></a><Br>
+ Mac Fluid Foundation NC35<br> $27.50 </td>
+<td><a href="ooo.html"><img src="ooo.png" alt="ULTRA HD LIP BOOSTER" height="200" width="200"></a><Br>
+ULTRA HD LIP BOOSTER<br> $55.99  </td>
+<td><a href="hk.html"><img src="hk.jpg" alt="Brushes for Cantor" height="200" width="200"></a><Br>
+Brushes for Cantor <br> $35.70 </td>
+<td><a href="sg.html"><img src="sg.jpg" alt=" Brushes sagma" height="200" width="200"></a><Br>
+ Brushes sagma<br> $55.99  </td>
+<td><a href="po.html"><img src="po.jpg" alt=" Sephora Khol expert" height="200" width="200"></a><Br>
+ Sephora Khol expert<br> $27.50 </td>
+</tr>
+</tbody>
+</table>
+<br>
+		  </br>  
+		  <a href="https://www.instagram.com/your_beauty321/"><img src="insta.png" alt="instagram" height="70" width="80"></a>
+
+		<a href="https://twitter.com/YourBeauty12"><img src="twitter.png" alt="twitter" height="70" width="70"></a>
+		
+		<a href="https://www.facebook.com/Your-Beauty-606362516221380/?skip_nax_wizard=true"><img src="facebook.png" alt="facebook" height="70" width="70"></a>
+<br>
+		  </br>
+		  
+<br> 
+
+</br>
+
+</body>
+
+</html>
